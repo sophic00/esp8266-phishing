@@ -1,0 +1,36 @@
+.blackText13 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: #000000;
+}
+
+.blackText11 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #000000;
+}
+
+.orangeText10 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color: #FF6600;
+  text-decoration: none;
+}
+
+.textBox {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #000000;
+  background-color: #FFFFFF;
+  border: 1px solid #7F9DB9;
+}
+
+.loginbutton {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+  color: #000000;
+  background-color: #E7EBE5;
+  border: 1px solid #7F9DB9;
+  cursor: pointer;
+}
